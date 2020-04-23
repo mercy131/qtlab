@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tomogram", "tomogram\tomogram.vcxproj", "{E621C587-3CA2-411C-AFE6-1AB74EECD29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E621C587-3CA2-411C-AFE6-1AB74EECD29B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E621C587-3CA2-411C-AFE6-1AB74EECD29B}.Debug|x86.Build.0 = Debug|Win32
+		{E621C587-3CA2-411C-AFE6-1AB74EECD29B}.Release|x86.ActiveCfg = Release|Win32
+		{E621C587-3CA2-411C-AFE6-1AB74EECD29B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C020FA7-97E9-4F04-80DC-5229B5FB571D}
+	EndGlobalSection
+EndGlobal
